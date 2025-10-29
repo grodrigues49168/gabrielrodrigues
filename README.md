@@ -1,15 +1,12 @@
-# gabrielrodrigues
-<!-- Coloque isso no README.md do repositório USERNAME/USERNAME -->
+# Olá 👋 eu sou Gabriel Rodrigues
 
 <table>
   <tr>
     <td valign="top">
-      <!-- Card de estatísticas -->
-      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=dark" alt="Profile Details" />
     </td>
     <td valign="top">
-      <!-- Card de linguagens -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME&theme=dark" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
