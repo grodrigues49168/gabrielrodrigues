@@ -1,12 +1,14 @@
-# Gabriel rodrigues - GitHub Stats
+[<!-- Coloque isso no README.md do repositório USERNAME/USERNAME -->
 
-- **Total Stars Earned:** ![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/grodrigues49168&query=stars&label=Total)
-- **Total Commits:** ![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/grodrigues49168&query=commits&label=Total)
-- **Total PRs:** ![PRs](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/grodrigues49168&query=prs&label=Total)
-- **Total Issues:** ![Issues](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/grodrigues49168&query=issues&label=Total)
-
----
-
-## Linguagens Mais Usadas
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grodrigues49168&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td valign="top">
+      <!-- Card de estatísticas -->
+      <img src="https://github-readme-stats.vercel.app/api?username=grodrigues49168&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub stats" />
+    </td>
+    <td valign="top">
+      <!-- Card de linguagens -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodrigues49168E&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
