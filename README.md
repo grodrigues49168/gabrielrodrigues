@@ -35,7 +35,7 @@ Atualmente estou aprimorando minhas habilidades em **React**, **JavaScript**, **
 ---
 
 ### 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com) *(adicione o seu link real aqui)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-devfullstack15/) 
 - 💻 [GitHub](https://github.com/grodrigues49168)  
 - ✉️ E-mail: gr49168@gmail.com
 ---
