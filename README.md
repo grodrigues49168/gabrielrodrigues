@@ -1,12 +1,12 @@
-# Olá 👋 eu sou Gabriel Rodrigues
+# Gabriel rodrigues - GitHub Stats
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=dark" alt="Profile Details" />
-    </td>
-    <td valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME&theme=dark" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+- **Total Stars Earned:** ![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SEU_USERNAME&query=stars&label=Total)
+- **Total Commits:** ![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SEU_USERNAME&query=commits&label=Total)
+- **Total PRs:** ![PRs](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SEU_USERNAME&query=prs&label=Total)
+- **Total Issues:** ![Issues](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SEU_USERNAME&query=issues&label=Total)
+
+---
+
+## Linguagens Mais Usadas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
