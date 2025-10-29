@@ -8,7 +8,7 @@
     </td>
     <td valign="top">
       <!-- Card de linguagens -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodrigues49168E&layout=compact&theme=dark" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodrigues49168&layout=compact&theme=dark" alt="Top Languages" />
     </td>
   </tr>
 </table>
